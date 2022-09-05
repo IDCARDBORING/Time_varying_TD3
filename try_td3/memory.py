@@ -1,18 +1,13 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-Author: John
-Email: johnjim0816@gmail.com
-Date: 2021-04-13 11:00:13
-LastEditor: John
-LastEditTime: 2021-04-15 01:25:14
+Author: Boyuan,Deng
+Email: 1015188236@qq.com
 Discription: 
 Environment: 
 '''
 import numpy as np
 import torch
-
-
 class ReplayBuffer(object):
 	def __init__(self, n_states, n_actions, max_size=int(1e6)):
 		self.max_size = max_size

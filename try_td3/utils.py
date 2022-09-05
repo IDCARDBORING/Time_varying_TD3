@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-Author: John
-Email: johnjim0816@gmail.com
-Date: 2021-03-12 16:02:24
-LastEditor: John
-LastEditTime: 2022-02-28 11:50:11
+Author: Boyuan,Deng
+Email: 1015188236@qq.com
 Discription: 
 Environment: 
 '''
@@ -16,7 +13,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 from matplotlib.font_manager import FontProperties  # 导入字体模块
-
 def chinese_font():
     ''' 设置中文字体，注意需要根据自己电脑情况更改字体路径，否则还是默认的字体
     '''

@@ -1,3 +1,9 @@
+'''
+Author: Boyuan,Deng
+Email: 1015188236@qq.com
+Discription:
+Environment:
+'''
 import mujoco_py
 import gym
 import time
@@ -53,7 +59,6 @@ def main(seed):
     # hopper 2500-3500
     # humanoid 4000-5000  0.05
     # inver 10000
-
     envlists = ['Walker2d-v2',
                 'HalfCheetah-v2',
                 'Ant-v2',

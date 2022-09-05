@@ -1,12 +1,10 @@
 #!/usr/bin/env python
 # coding=utf-8
 '''
-Author: JiangJi
-Email: johnjim0816@gmail.com
-Date: 2021-12-22 10:40:05
-LastEditor: JiangJi
-LastEditTime: 2021-12-22 10:43:55
-Discription: 
+Author: Boyuan,Deng
+Email: 1015188236@qq.com
+Discription:
+Environment:
 '''
 import copy
 import numpy as np
